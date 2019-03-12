@@ -1,0 +1,209 @@
+@charset UTF-8;
+
+.anuncio-1{
+
+
+}
+
+ 
+
+
+  @media screen and (min-width: 801px){
+	  
+	  
+	  .cabecalho-nun{
+	  
+	    margin-left: 29%;
+    margin-top: 9px;
+	width: 41%;
+	display: block!important ;
+	/*background-color: red; */
+}
+	  
+  }
+  
+    .cabecalho-nun{
+    margin-left: 30.5%;
+   margin-top: 19px;
+    width: 41%;
+  
+}
+  
+
+
+
+.anuncio-lateral-quadrado{
+	
+	margin-top: 28px;
+    margin-left: -20px;
+	
+	
+}
+
+
+.anuncio-lateral-quadrado-1{
+	
+	margin-top: 28px;
+    margin-left: 19px;
+	
+	
+}
+
+.anuncio-vertical-lateral{
+	
+}
+
+.anuncio-anime{
+	    width: 336px;
+    height: 280px;
+    position: absolute;
+    left: 833px;
+    top: 71%;
+    /* background-color: red; */
+    border-radius: 8px;
+	display: none ;
+}
+
+
+@media screen and (min-width: 801px){
+
+.anuncio-anime{
+	    width: 336px;
+    height: 280px;
+    position: absolute;
+        left: 806px;
+    top: 71%;
+   /* background-color: red; */
+    border-radius: 8px;
+	display: block !important ;
+}
+
+
+}
+.anuncio-anime-p-inicial{
+	    width: 336px;
+    height: 280px;
+    position: absolute;
+    left: 713px;
+   top: 15%;
+	
+}
+
+
+
+.anun-lateral{
+	    width: 161px;
+    position: fixed;
+    left: 90.6%;
+    top: 6%;
+	
+}
+
+.anun-lateral-1{
+	    width: 161px;
+    position: fixed;
+    left: 7px;
+    top: 6%;
+	
+}
+
+.an-lat-dir-art{
+    width: 160px;
+    /* background: forestgreen; */
+    left: 1179px;
+    position: absolute;
+    top: 566px;
+    display: none;
+   /*background-color: red; */
+	
+}
+
+.an-lat-dir-art-anime{
+    width: 160px;
+   /* background: forestgreen; */
+    left: 1179px;
+    position: absolute;
+    top: 566px;
+    display: none;
+   /*background-color: red; */
+	
+}
+
+
+ @media screen and (min-width: 801px){
+
+
+
+   .an-lat-dir-art{
+    width: 160px;
+    /* background: forestgreen; */
+        left: 1176px;
+    position: absolute;
+    top: 566px;
+    display: block !important ;
+    /*background-color: red; */
+	
+}
+
+     .an-lat-dir-art-anime{
+    width: 160px;
+   /* background: forestgreen; */
+    left: 1179px;
+    position: absolute;
+        top: 124px;
+    display: block !important ;
+    /*background-color: red; */
+	
+}
+
+ 
+
+
+   .an-lat-esc-art {
+    width: 160px;
+    height: 600px;
+   /*background-color: red; */
+    left: 6px;
+    position: absolute;
+      top: 125px;
+    display: block !important;
+   /*background-color: red; */
+}
+
+ }
+ 
+ 
+  .an-lat-esc-art {
+    width: 160px;
+    height: 600px;
+  /*background-color: red; */
+    left: 6px;
+    position: absolute;
+        top: 125px;
+    display: none;
+   /*background-color: red; */
+ 
+  }
+ 
+.marc-anime{
+	    position: relative;
+    left: 86%;
+    top: -3026px;
+}
+
+.an-lat-fixed{
+	position: fixed;
+    top: 42px;
+	
+}
+
+.an-lat-absolute{
+	 position: absolute;
+    top: 551px	
+	
+}
+
+.anuncio-artigo{
+	
+	
+}

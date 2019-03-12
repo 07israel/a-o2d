@@ -1,0 +1,182 @@
+@charset UTF-8;
+
+@media screen and (max-width: 1024px) and (max-height: 768px) {
+	
+	.f-geral {
+    margin-top: -3%;
+    margin-left: 4%!important;
+}
+	
+	.transp {
+        width: 79.2%;
+	}
+	.card-a-2d h3 {
+    margin-left: 3%;
+    font-size: 119%;
+	margin-top: 44px;
+	}
+	
+	
+	.card-a-3d h3 {
+    position: absolute;
+    margin-top: 39px;
+    color: #fbf7f8;
+    z-index: 1;
+    text-align: center;
+    margin-left: 4%;
+	}
+	.pesquisa {
+    position: absolute;
+    left: 814px;
+	}
+	
+	
+}
+
+
+@media screen and (max-width: 800px) and (min-width: 769px){
+	
+	.f-geral {
+    margin-top: -3%;
+    margin-left: 7%!important;
+}
+	
+	.transp {
+    width: 75.2%;
+	}
+	.card-a-2d h3 {
+    position: absolute;
+    margin-top: 32px;
+    color: #fdf9f9;
+    z-index: 1;
+    text-align: center;
+    margin-left: 7%;
+    font-family: spoty;
+    font-size: 77%;
+	}
+	
+	
+	.card-a-3d h3 {
+    position: absolute;
+    margin-top: 39px;
+    color: #fbf7f8;
+    z-index: 1;
+    text-align: center;
+    margin-left: 21%;
+	}
+	
+	
+}
+
+
+@media screen and (max-width: 768px) and (min-width: 737px){
+	
+	.f-geral {
+    margin-top: -3%;
+    margin-left: 7%!important;
+}
+    .pesquisa {
+    position: absolute;
+    left: 550px;
+    top: 20px;
+	}
+	
+	.transp {
+    width: 75.2%;
+	}
+	.card-a-2d h3 {
+    position: absolute;
+    margin-top: 32px;
+    color: #fdf9f9;
+    z-index: 1;
+    text-align: center;
+    margin-left: 7%;
+    font-family: spoty;
+    font-size: 77%;
+	}
+	
+	
+	.card-a-3d h3 {
+    position: absolute;
+    margin-top: 39px;
+    color: #fbf7f8;
+    z-index: 1;
+    text-align: center;
+    margin-left: 21%;
+	}
+	
+	
+}
+
+@media screen and (max-width: 732px) and (min-width: 641px){
+	
+	.menu {
+    position: absolute;
+    top: 81px;
+    width: 57%;
+	}
+	.novidades-1 {
+    margin-top: 121px;
+    width: 57%;
+}
+
+  .logo-top {
+  
+    left: 133px;
+  }
+	
+	
+	.f-geral {
+    margin-top: -3%;
+    margin-left: 7%!important;
+}
+   .p-card {
+    margin-top: 3.8%;
+    display: flex !important;
+    background: #ed3237;
+    width: 81%;
+    margin-left: -13%!important;
+   }
+
+    .pesquisa {
+    position: absolute;
+    left: 550px;
+    top: 20px;
+	display: none;
+	}
+	
+	.transp {
+        width: 67.2%;
+	}
+	.card-a-2d h3 {
+    position: absolute;
+    margin-top: 19px;
+    color: #fdf9f9;
+    z-index: 1;
+    text-align: center;
+    margin-left: 7%;
+    font-family: spoty;
+    font-size: 41%;
+	}
+	
+	.img-fluid {
+
+    display: none;
+	}
+	.card-a-3d h3 {
+        position: absolute;
+    margin-top: 28px;
+    color: #fbf7f8;
+    z-index: 1;
+    text-align: center;
+    margin-left: 64%;
+    font-size: 108%;
+	}
+	.p-card-3 {
+
+    width: 100%;
+    margin-left: 58px!important;
+	}
+	
+	
+}

@@ -1,0 +1,201 @@
+@charset UTF-8;
+
+body{
+	
+    background: #CDDC39 !important;
+    height: auto;
+	
+}
+
+.n-corpo{
+    background: linear-gradient(#61ea679e,#00bcd4d6);
+    width: 80% !important;
+    position: absolute;
+    left: 10%;
+    height: auto;
+    box-shadow: 2px 0px 3px 0px black;
+}
+
+.area-card{
+	margin-top: 13%;
+    width: 100%;
+    height: 180px;
+    position: relative;
+	left: 5%;
+}
+
+.novo-c-1{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/tokusatsu/jaspion/jaspion.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/tokusatsu/power-rangers/power-rangers.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c-2{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/tokusatsu/troopers/troopers.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c-5{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/tokusatsu/changeman/changeman.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c a{
+	font-family: anime;
+	
+}
+
+
+.texto-anime h4{
+	text-align: left;
+	color: black ;
+}
+
+.texto-anime a:hover h4{
+	
+	color: #E91E63;
+	transition: 0.6s;
+}
+
+
+
+
+.novo-c a:hover .capsula{
+	
+	background: #12131226;
+}
+
+
+.novo-c a:hover{
+	
+	text-decoration: none !important;
+	
+}
+
+
+.meu-card{
+	
+	width: 300px;
+	height: 180px;
+	background-image: url(../_img/page-2/tokusatsu/giraia/giraia.jpg);
+	border-radius: 6px;
+}
+
+.meu-card a,h4{
+	font-family: anime;
+	
+}
+
+.meu-card a{
+	
+	color: white;
+	text-align: center;
+	
+}
+
+.meu-card a:hover .capsula{
+	
+	background: #12131226;
+}
+
+.meu-card a:hover{
+	color: white !important;
+	text-decoration: none !important;
+	
+}
+
+.p-anime{
+	
+margin-top: -40%;	
+	
+}
+
+.p-anime-n{
+    margin-top: -43%;
+    margin-left: 102%;
+    width: 123%;
+	
+}
+
+
+
+.capsula{
+	    width: 100%;
+    height: 180px;
+    background: #121312a3;
+    z-index: 9;
+	border-radius: 6px;
+}
+
+.meu-card-1{
+	 margin-top: -17%;
+    margin-left: 31%;
+	
+}
+
+.meu-card-1{
+	
+	background-image: url(../_img/page-2/tokusatsu/came-raider/came-raider.jpg);
+	
+}
+
+
+.meu-card-2{
+	 margin-top: -17%;
+     margin-left: 62%;
+	
+}
+
+.meu-card-2{
+	
+	background-image: url(../_img/page-2/tokusatsu/ultraman/ultraman.jpg);
+	
+}
+
+.corpo-anime{
+	    width: 100%;
+    height: auto;
+    background: white;
+	
+}
+
+.novs{
+	    width: 100%;
+    height: 47px;
+    background: linear-gradient(to right, #CDDC39,#009688,#00BCD4,#00BCD4,#009688,#CDDC39);
+}
+	
+
+
+.novs h3{
+    text-align: center;
+    font-family: anime;
+    color: white;
+    position: relative;
+    top: 13%;
+	
+}

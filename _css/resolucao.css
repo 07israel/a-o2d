@@ -1,0 +1,480 @@
+@charset UTF-8;
+
+
+@media screen and (max-width: 1920px){
+	
+	.color-corpo{
+	
+	background:white;
+	
+}
+
+.capa{
+	    width: 100%;
+    height: 94%;
+    margin-top: -60%;
+    /* z-index: 999999; */
+    position: relative;
+    border-radius: 10px;
+    background: #0c0c0cb0;
+	
+}
+.capa:hover{
+	background:#0c0c0c00;
+	
+}
+
+
+.cont-principal{
+	
+	border: 0;
+    padding: 0;
+    width: 100%;
+    height: 33%;
+    top: 123px;
+    position: absolute;
+    background: linear-gradient(to right, #FF5722,#F44336,#E91E63,#673AB7);
+	
+}
+
+.tam-q{
+	    width: 23.333333%;
+    /* background: red; */
+    height: 75%;
+    margin-top: 3%;
+    float: left;
+    margin-left: 7.5%;
+    border-radius: 10px;
+    display: flex	
+}
+
+.tam-q a{
+	text-align: center;
+    margin-top: 0;
+	font-family: anime;
+	text-decoratinon: none;
+	color: white;
+	
+}
+
+.tam-q a:hover{
+	
+	text-decoration: none!important;
+	color: #e91e63;
+	transition: 0.6s;
+}
+
+.tam-q h2{
+	
+	margin-top: 0%;
+    text-decoration: none;
+		
+}
+
+.tam-q h4{
+	text-decoration: none;
+	font-family:roboto;
+}
+
+.q-1 img{
+	
+	width:100%;
+	border-radius: 10px;
+}
+
+
+.corpo-p{
+	    position: absolute;
+    width: 81%;
+    /*height: 152%; */
+    top: 51.5%;
+    background: #fafafd;
+    margin-left: 8.5%;
+ 
+	
+}
+
+.posi-card{
+	width: 81%;
+    height: 100%;
+    /* background: red; */
+    margin-left: 8.5%;
+	
+}
+
+.barra{
+    width: 100%;
+    height: 47px;
+    background: linear-gradient(to right, #E91E63,#673AB7,#9C27B0,#E91E63);
+    margin-top: auto;	
+	display: none;
+}
+
+.barra h2{
+	
+	color: white;
+    font-family: anime;
+    margin-left: 40%;
+    margin-top: 0px;
+    position: relative;
+    top: 11%;
+}
+
+.tam-q-2{
+	    width: 26.333333%;
+    background: red;
+    height: 17%;
+    margin-top: 2%;
+    /* float: left; */
+    margin-left: 7%;
+    border-radius: 10px;
+    display: flex;
+	
+	
+}
+
+
+.tam-q-2 a{
+	text-align: center;
+    margin-top: 0;
+	font-family: anime;
+	text-decoratinon: none;
+	color: black;
+	
+}
+
+.tam-q-2 a:hover{
+	
+	text-decoration: none!important;
+	color: #e91e63;
+	transition: 0.6s;
+}
+
+.tam-q-2 h2{
+	
+	margin-top: 0%;
+    text-decoration: none;
+		
+}
+
+.tam-q-2 h4{
+	text-decoration: none;
+	font-family:roboto;
+}
+
+
+.capa-2{
+	width: 100%;
+    height: 172px;
+    margin-top: -60%;
+    /* z-index: 999999; */
+    position: relative;
+    border-radius: 10px;
+    background: #0c0c0cb0;
+	
+}
+.capa-2:hover{
+	background:#0c0c0c00;
+	
+}
+
+.q-2 img{
+	
+	width:100%;
+	border-radius: 10px;
+}
+.posi-text{
+	width: 100%;
+	margin-left: 100%;
+}
+
+.big-figure{
+	
+	    width: 60%;
+    height: 29%;
+	
+}
+
+.big-figure img{
+	    width: 653px;
+    height: 294px;
+    border-radius: 10px;
+}
+
+.capa-g{
+	    width: 100%;
+    height: 107%;
+    margin-top: -45%;
+    /* z-index: 999999; */
+    position: relative;
+    border-radius: 10px;
+    background: #0c0c0cb0;
+	
+}
+.capa-g:hover{
+	    background: #2d2d2db5;
+	
+}
+
+.posi-text-g {
+	
+    margin-left: 49%;
+    margin-top: 26%;
+	
+}
+
+.posi-text-g h2{
+	color: white;
+	
+}
+
+.posi-text-g h4{
+	
+	
+	color: white;
+	
+}
+	
+	
+	
+	
+}
+
+
+@media screen and (max-width: 800px){
+	
+	.color-corpo{
+	
+	background:white;
+	
+}
+
+.capa{
+	    width: 100%;
+    height: 74%;
+    margin-top: -60%;
+    /* z-index: 999999; */
+    position: relative;
+    border-radius: 10px;
+    background: #0c0c0cb0;
+	
+}
+.capa:hover{
+	background:#0c0c0c00;
+	
+}
+
+
+.cont-principal {
+        border: 0;
+    padding: 0;
+    width: 115%;
+    height: 15%;
+    top: 123px;
+    position: absolute;
+    background: linear-gradient(to right, #FF5722,#F44336,#E91E63,#673AB7);
+}
+
+.tam-q{
+	    width: 23.333333%;
+    /* background: red; */
+    height: 75%;
+    margin-top: 3%;
+    float: left;
+    margin-left: 7.5%;
+    border-radius: 10px;
+    display: flex	
+}
+
+.tam-q a{
+	    text-align: center;
+    margin-top: 0;
+    font-family: anime;
+    text-decoratinon: none;
+    color: white;
+    font-size: 0px;
+	
+}
+
+.tam-q a:hover{
+	
+	text-decoration: none!important;
+	color: #e91e63;
+	transition: 0.6s;
+}
+
+.tam-q h2{
+	
+	margin-top: 0%;
+    text-decoration: none;
+		
+}
+
+.tam-q h4{
+	text-decoration: none;
+	font-family:roboto;
+}
+
+.q-1 img{
+	
+	width:100%;
+	border-radius: 10px;
+}
+
+
+.corpo-p{
+	position: absolute;
+    width: 81%;
+    /* height: 152%; */
+    top: 24.5%;
+    background: #fafafd;
+    margin-left: 11.5%;
+ 
+	
+}
+
+.posi-card{
+	    width: 81%;
+    height: 100%;
+    /* background: red; */
+    margin-left: 8.5%;
+    margin-top: 3%;
+	
+}
+
+.barra{
+    width: 100%;
+    height: 47px;
+    background: linear-gradient(to right, #E91E63,#673AB7,#9C27B0,#E91E63);
+    margin-top: auto;	
+	display: none;
+}
+
+.barra h2{
+	
+	color: white;
+    font-family: anime;
+    margin-left: 40%;
+    margin-top: 0px;
+    position: relative;
+    top: 11%;
+}
+
+.tam-q-2{
+	    width: 26.333333%;
+    background: red;
+    height: 17%;
+    margin-top: 2%;
+    /* float: left; */
+    margin-left: 7%;
+    border-radius: 10px;
+    display: flex;
+	
+	
+}
+
+
+.tam-q-2 a{
+	text-align: center;
+    margin-top: 0;
+	font-family: anime;
+	text-decoratinon: none;
+	color: black;
+	
+}
+
+.tam-q-2 a:hover{
+	
+	text-decoration: none!important;
+	color: #e91e63;
+	transition: 0.6s;
+}
+
+.tam-q-2 h2{
+	
+	margin-top: 0%;
+    text-decoration: none;
+		
+}
+
+.tam-q-2 h4{
+	text-decoration: none;
+	font-family:roboto;
+}
+
+
+.capa-2{
+	    height: 102px;
+	
+}
+.capa-2:hover{
+	background:#0c0c0c00;
+	
+}
+
+.q-2 img{
+	
+	width:100%;
+	border-radius: 10px;
+}
+.posi-text{
+	width: 100%;
+	margin-left: 100%;
+}
+
+.big-figure{
+	
+	    width: 60%;
+    height: 29%;
+	
+}
+
+.big-figure img{
+	    width: 653px;
+    height: 294px;
+    border-radius: 10px;
+}
+
+.capa-g{
+	    width: 100%;
+    height: 107%;
+    margin-top: -45%;
+    /* z-index: 999999; */
+    position: relative;
+    border-radius: 10px;
+    background: #0c0c0cb0;
+	
+}
+.capa-g:hover{
+	    background: #2d2d2db5;
+	
+}
+
+.posi-text-g {
+	
+    margin-left: 49%;
+    margin-top: 26%;
+	
+}
+
+.posi-text-g h2{
+	color: white;
+	
+}
+
+.posi-text-g h4{
+	
+	
+	color: white;
+	
+}
+	
+	.menu-fixed {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    width: 100% !important;
+}
+	
+	
+}

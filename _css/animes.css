@@ -1,0 +1,348 @@
+@charset UTF-8;
+
+body{
+	
+    background: #E91E63 ;
+    height: auto;
+	
+}
+
+.container{
+	background-color: #f9f9f9;
+	
+}
+
+.color-anime{
+	
+	background: #9f27ae !important;
+	
+}
+.novidades{
+	
+    width: 110%;
+    /* background: red; */
+    text-align: center;
+    font-family: anime;
+    color: white;
+    background: linear-gradient(to right, #E91E63,#673AB7,#9C27B0,#E91E63);
+    font-size: 104%;
+    padding: 1%;
+    margin-left: -16px;
+
+}
+.anime-fundo{
+	    background: #ffffff;
+	
+}
+
+
+
+
+.posi-tub {
+	
+	
+	margin-top: 5%;
+    margin-left: 0%;
+    width: 106%;
+	
+   
+}
+
+.posi-tub:hover {
+	
+ 
+    margin-left: 0%;
+}
+	
+
+.thumbnail:hover{ 
+ background-color: #9C27B0 !important;
+
+}
+
+.thumbnail:hover p{ 
+ color: black !important;
+
+}
+
+
+@media screen and (min-width: 801px){
+.animes-control{
+	
+	    display: flex !important;
+		background-color: #fdf9f9;
+	
+}
+     .container {
+ 
+    margin-top: 0% !important;
+
+}
+
+  .color-anime{
+	
+	background: #9f27ae !important;
+	
+}
+
+   .posi-tub {
+	
+	 margin-top: 5% !important;
+    margin-left: -2% !important ;
+}
+
+  .posi-tub:hover {
+	
+  margin-top: 5% !important;
+    margin-left: 0% !important ;
+}
+
+    .anime-posi > img{
+    border-radius: 20px !important;
+    margin-left: 4% !important;
+    margin-top: 5% !important;
+	width: 89% !important;
+} 
+
+   .novidades{
+	
+        width: 103% !important;
+    /* background: red; */
+    text-align: center;
+    font-family: anime;
+    color: white;
+    background: linear-gradient(to right, #E91E63,#673AB7,#9C27B0,#E91E63);
+    font-size: 104%;
+    padding: 1%;
+    margin-left: -16px;
+
+}
+
+  .posi-tub:hover {
+	
+ 
+    margin-left: 12% !important;
+}
+
+.container {
+       max-width: 998px !important;
+}
+
+
+}
+
+
+
+
+  .animes-control{
+	
+	    display: block;
+	
+}
+
+  .anime-posi > img {
+    border-radius: 20px ;
+    margin-left: 0% ;
+    margin-top: 0% ;
+    width: 100%;
+}
+
+
+ 
+ .thumbnail:hover p, a:hover{
+	 
+	 color: black !important;
+ }
+ 
+
+	  
+  
+
+  .container {
+    max-width: 1140px;
+   
+	    margin-top: 31% ;
+}
+
+.n-corpo{
+
+    background: linear-gradient(white,black);
+    width: 80% !important;
+    position: absolute;
+    left: 10%;
+    height: auto;
+	box-shadow: 2px 0px 3px 0px black;
+}
+
+.area-card{
+	margin-top: 13%;
+    width: 100%;
+    height: 180px;
+    position: relative;
+	left: 5%;
+}
+
+.novo-c{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/animes/shingeki.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c-2{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/animes/dbzs.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c-3{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/one-punch-man/one-punch.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c a{
+	font-family: anime;
+	
+}
+
+
+.texto-anime h4{
+	text-align: left;
+	color: black ;
+}
+
+.texto-anime a:hover h4{
+	
+	color: #E91E63;
+	transition: 0.6s;
+}
+
+
+
+
+.novo-c a:hover .capsula{
+	
+	background: #12131226;
+}
+
+
+.novo-c a:hover{
+	
+	text-decoration: none !important;
+	
+}
+
+
+.meu-card{
+	
+	width: 300px;
+	height: 180px;
+	background-image: url(../_img/page-2/_cabecalho/attack-on-titan/anime.jpg);
+	border-radius: 6px;
+}
+
+.meu-card a,h4{
+	font-family: anime;
+	
+}
+
+.meu-card a{
+	
+	color: white;
+	text-align: center;
+	
+}
+
+.meu-card a:hover .capsula{
+	
+	background: #12131226;
+}
+
+.meu-card a:hover{
+	color: white !important;
+	text-decoration: none !important;
+	
+}
+
+.p-anime{
+	
+margin-top: -40%;	
+	
+}
+
+.p-anime-n{
+    margin-top: -43%;
+    margin-left: 102%;
+    width: 123%;
+	
+}
+
+
+
+.capsula{
+	    width: 100%;
+    height: 180px;
+    background: #121312a3;
+    z-index: 9;
+	border-radius: 6px;
+}
+
+.meu-card-1{
+	 margin-top: -17%;
+    margin-left: 31%;
+	
+}
+
+.meu-card-1{
+	
+	background-image: url(../_img/page-2/_cabecalho/animes/f-zero.jpg);
+	
+}
+
+
+.meu-card-2{
+	 margin-top: -17%;
+     margin-left: 62%;
+	
+}
+
+.meu-card-2{
+	
+	background-image: url(../_img/page-2/_cabecalho/animes/ynu.jpg);
+	
+}
+
+.corpo-anime{
+	    width: 100%;
+    height: auto;
+    background: white;
+	
+}
+
+.novs{
+	    width: 100%;
+    height: 47px;
+    background: linear-gradient(to right, #E91E63,#673AB7,#9C27B0,#E91E63);
+	
+}
+
+.novs h3{
+    text-align: center;
+    font-family: anime;
+    color: white;
+    position: relative;
+    top: 13%;
+	
+}

@@ -1,0 +1,972 @@
+@charset UTF-8;
+
+
+html, body{
+	
+  height: 100%;
+   margin: 0;
+	
+	
+}
+article{
+	
+	 height: 100%;
+	
+}
+
+
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+
+
+.tok{
+	
+	
+}
+
+.anum-d-absolute{
+	
+	position: absolute;
+    top: 350%;
+	    margin-left: 88%;
+		display: none;
+}
+
+@media screen and (min-width: 801px){
+.nav-absolute-1{
+	width: 162px;
+    height: 483px;
+    background: #312f2fc7;
+    left: 3px;
+    border-radius: 3px 3px 3px 3px;
+	position: absolute;
+    top: 350%;
+	display: block !important;
+}
+
+   .nav-tabs {
+    border-bottom: 1px solid #ddd;
+    margin-right: 190px !important;
+   }
+
+  .anum-d-absolute{
+	
+	position: absolute;
+    top: 350%;
+	    margin-left: 1176px;
+		display: block !important;
+	
+}
+
+.redes-block{
+	
+	visibility: hidden;
+	
+}
+
+}
+
+ .nav-absolute-1{
+	 
+	 display: none;
+	 
+ }
+
+.autor{
+    width: 252px;
+    position: relative;
+    left: 23px;
+    top: 10px;	
+	
+}
+
+pubdate {
+	 font-size: 13px;
+}
+
+
+
+
+.img-article {
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/cabe-teste.png);
+    background-attachment: fixed;
+    background-position: 50% 121px ;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+
+        .img-article-gekido-gba{
+	    position: absolute;
+    width: 100%;
+    background: url(../_img/games/gekido-gba/gekido.jpg);
+     background-attachment: fixed; 
+    background-position: 50% 0px;
+    height: 417px;
+    top: 18% !important;
+    left: 0;
+    background-repeat: no-repeat;   
+	   
+	   
+	   
+   }
+
+
+.svg{
+	
+	
+}
+
+.navegar{
+	position: relative;
+    width: 162px;
+    height: 483px;
+    top: 541px;
+        background: #312f2fc7;
+    left: 3px;
+    border-radius: 3px 3px 3px 3px;
+}
+.navegar a{
+	
+	color: #ffffffb5;
+}
+
+.navegar a:hover{
+	    color: #8BC34A;
+}
+
+.nav-fixa{
+	position: fixed;
+	top: 53px;
+}
+
+.marc-nav{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    top: 538px;
+	
+}
+
+ .bio-img{
+	margin-top: 3%;
+    position: fixed;
+    margin-left: -3%;
+	opacity: 0.2;
+	
+	   
+   }
+   
+   .corpo-artigo-biografia {
+    
+ 
+    box-shadow: 1px 1px 1px 1px;
+    padding: 0;
+    margin-top: 100px;
+    height: auto;
+    background: #ffffff;
+}
+   
+
+@media screen and (min-width: 801px){
+	
+	.navegar {
+  
+    display: block !important;
+}
+
+   .new-marc{
+	position: relative;
+        top: 350%;
+
+		
+	
+}
+
+   .bio-img{
+	margin-top: 3%;
+    position: fixed;
+    margin-left: -5%;
+    opacity: 1;
+	
+	   
+   }
+   
+    .bio-img img{
+	
+	  width: 70%;
+	   
+   }
+
+  .corpo-artigo-biografia {
+    
+ 
+       box-shadow: 1px 1px 1px 1px;
+    padding: 0;
+    margin-left: 23%;
+    margin-top: 0 ;
+    width: 64% ;
+    height: auto;
+    background: #ffffff;
+}
+
+   .corpo-artigo {
+    position: relative;
+    width: 74% !important;
+    height: auto;
+    background: #ffffff;
+    left: 174px !important;
+    top: -289px;
+    box-shadow: 1px 1px 1px 1px;
+    padding: 0;
+    /* margin-left: 11%; */
+    margin-top: 0% !important;
+ 
+}
+  
+  
+  
+  .carro{
+	  
+	      width: 80%!important;
+	  
+  }
+
+
+
+       .img-article-megaman-x {
+    position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/detonado-mega-man-x/megaman-x.png);
+    /* background-attachment: fixed; */
+     background-position: 50% 0px;
+    height: 417px;
+    top: 18% !important;
+    left: 0;
+    background-repeat: no-repeat;
+}
+
+   .img-article-mega-11{
+    width: 100%;
+    background: url(../_img/games/megaman11/capamega11.jpg);
+	
+   }
+   
+     .img-article-game-novo{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/games/shubibinman/capa.jpg);
+	 }
+	 
+	 .img-article-megaman{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/megamanlegacy.png);
+	 }
+
+  	  .menu-fixed {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+}
+     .corpo-artigo-posi {
+    top: 426px ;
+}
+    .curtir {
+    display: block !important;
+}
+    .video iframe{
+	
+	width: 40% !important;
+}
+
+
+}
+
+  .curtir {
+    display: none;
+}
+
+ .video iframe{
+	
+	width: 100%;
+}
+
+  .corpo-artigo-posi {
+    top: -217px ;
+}
+
+
+  .footer {
+    margin-top: 40px;
+    padding: 40px 0;
+    background-color: black !important;
+}
+
+.redes-sociais-post-1 ul li a:hover {
+ background-color: black;
+}
+
+.redes-sociais-post-1 ul li a {
+    font-family: rsocial;
+    font-size: 68px;
+    color: white;
+}
+
+.redes-sociais-post-1 ul {
+
+	margin-left: 3%;
+	
+}
+
+
+.redes-sociais-post-1{
+	
+	text-align: center;
+}
+
+.redes-sociais-post-1 p{
+	
+	color: white;
+	
+}
+
+.sete-design span{
+	
+	color: #9C27B0;
+	
+}
+
+
+
+
+.sete-design a{
+	
+	
+	
+}
+
+.sete-design a:hover{
+	
+	text-decoration: none;
+	
+}
+
+.img-logo-new{
+	
+	    width: 42%;
+    padding: 0;
+    margin: 0;
+}
+
+
+	  .menu-fixed {
+    position: absolute ;
+    z-index: 999;
+    top: 0;
+}
+	
+       .img-article-megaman-x {
+  
+    background-attachment: fixed ;
+
+    top: 121px ;
+   }
+	@media screen and (min-width: 801px){
+   .corpo-artigo {
+    position: relative;
+    width: 100%;
+    height: auto;
+    background: #ffffff;
+    /* left: 171px; */
+    top: -289px ;
+    box-shadow: 1px 1px 1px 1px;
+    padding: 0;
+    margin-left: 0%;
+    margin-top: -6% !important;
+}
+
+  .redes-sociais-post-1 ul {
+	margin-left: 38% !important;
+	
+	
+}
+
+ .img-article-mega-11{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/games/megaman11/capamega11.jpg);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+  .img-article-game-novo{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/games/shubibinman/capa.jpg);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+.img-article-stf{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/stf-trinta-anos.jpg);
+}
+
+.img-article-cavaleiros-netflix{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/cavaleiros-netflix.png);
+}
+
+.img-article-mario-odyssey{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/marioodyssey.jpg);
+}
+
+  
+ 
+   .corpo-texto{
+	min-height: 100%;
+    margin-bottom: -50px;
+    background: linear-gradient(#ffffff,#101010,#E91E63,#00BCD4);
+}
+
+  .img-article-sonic-forces{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/sonic-forces.jpg);
+  }
+  .img-article-essencial-street{
+	
+	position: absolute;
+    width: 100%;
+    background: url(../_img/warpzone/essencial-streetfighter/essencial-streetfighter.png);
+	
+  }
+
+	}
+
+    .corpo-artigo {
+  
+    /* left: 171px; */
+    top: -149px;
+ 
+    margin-top: 170%;
+}
+
+
+	.navegar {
+  
+    display: none;
+}
+
+
+
+.corpo-artigo-posi{
+	
+	top: 426px;
+	
+}
+
+article p{
+	
+	font-family: post;
+	top: 80%;
+    font-size: 113%;
+    left: 17%;
+    line-height: 158%;
+	
+}
+
+    .corpo-texto {
+    min-height: 100%;
+    margin-bottom: -50px;
+    background: width;
+}
+
+@media screen and (min-width: 801px){
+	
+	.redes-article{
+	
+       /* position: absolute; */
+    left: 648px;
+    top: 8px;
+    z-index: 9;
+    height: 85px;
+    float: right;
+	display:block !important;
+	
+}
+	
+	
+}
+
+.redes-article{
+	
+    position: absolute; 
+    left: 648px;
+    top: 8px;
+    z-index: 9;
+    height: 85px;
+    float: right;
+	display: none;
+}
+
+.redes-article ul li a{
+	
+    font-family: rsocial;
+    font-size: 68px;
+	color: black;
+	
+}
+
+.cab-fixed img{
+	
+	position: fixed;
+	top: 40px;
+	
+	
+}
+
+.coll-1{
+	    position: relative;
+    width: auto;
+    height: auto;
+    padding: 15px;
+    left: 3px;
+/*    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2; */
+}
+
+.coll-1 h1{
+	    width: 284px;
+    padding: 0;
+    border: 0;
+	
+}
+footer{
+	background: black;
+    height: 86px;
+    width: 100%;
+ 
+}
+
+.rodape-artc img{
+	width: 109px;
+    /* height: 20px; */
+    display: block;
+    padding: 0;
+    left: 94px;
+    top: -33px;
+    margin: 0;
+    padding: 0;
+}
+
+.rodape-artc p{
+	text-align: center;
+    color: #6f6060;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+	
+	
+}
+
+
+.img-article-megaman{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/megamanlegacy.png);
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+
+}
+
+
+.img-article-stf{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/stf-trinta-anos.jpg);
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+
+}
+
+.img-article-cavaleiros-netflix{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/cavaleiros-netflix.png);
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+
+}
+
+.img-article-mario-odyssey{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/marioodyssey.jpg);
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+
+}
+
+.img-article-sonic-forces{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/sonic-forces.jpg);
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+
+}
+
+.img-article-essencial-street{
+	
+	position: absolute;
+    width: 100%;
+    background: url(../_img/warpzone/essencial-streetfighter/essencial-streetfighter.png);
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+	
+}
+
+
+.img-article-castlevania-gba{
+	
+	position: absolute;
+    width: 100%;
+    background: url(../_img/games/castlevania-gba-pt-br/capa.jpg);
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+	
+}
+
+
+
+.img-article-akira-toriyama{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/akira-toriyama/akira-toriyama.png);
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+
+}
+
+.img-article-kof-ex{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/kof-ex-2/kof-ex2.jpg);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+.img-article-mega-mini{
+	
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/mega-drive-mini/mega-mini.jpg);
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+	
+	
+	
+}
+
+
+.img-article-f-zero-anime{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/f-zero-anime.jpg);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+.img-article-megaman-x{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/detonado-mega-man-x/megaman-x.png);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+.mega a{
+	
+	    font-size: 12px;
+	
+}
+
+.video{
+	
+	
+}
+
+.img-article-attack-on-titan{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/attack-on-titan/attack-on-titan.png);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+
+.img-article-inu{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/inuyasha/inu.png);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+.img-article-shingeki{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/shingeki/shingeki.png);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+.img-article-one-punch{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/one-punch-man/one-punch.png);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+
+
+.img-article-chrono-detonado{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/chronotrigger.png);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+
+
+.img-article-mega-zero{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/mega-zero.png);
+     background-attachment: fixed;
+    background-position: 50% 121px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+.img-article-samus-aran{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/samus-aran.png);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+.img-article-evolucao{
+	position: absolute;
+    width: 100%;
+    background: url(../_img/page-2/_cabecalho/evolucao.jpg);
+     background-attachment: fixed;
+    background-position: 50% 0px;
+    height: 417px;
+    top: 121px;
+    left: 0;
+	background-repeat: no-repeat;
+}
+
+
+.img-article-castlevania-2
+  {
+    position: absolute;
+    width: 100%;
+    background: url(../_img/castlevania/cast.jpg);
+     background-attachment: fixed; 
+    background-position: 50% 0px;
+    height: 417px;
+    top: 18% !important;
+    left: 0;
+    background-repeat: no-repeat;
+  }
+  
+  .img-article-sparkster{
+	  
+	  position: absolute;
+    width: 100%;
+    background: url(../_img/games/sparkster/capa-sparkster.jpg);
+     background-attachment: fixed; 
+    background-position: 50% 0px;
+    height: 417px;
+    top: 18% !important;
+    left: 0;
+    background-repeat: no-repeat; 
+	  
+	  
+  }
+  
+  
+  .img-article-black-clover {
+	  
+	  position: absolute;
+    width: 100%;
+    background: url(../_img/animes/black-clover/black-clover.jpg);
+     background-attachment: fixed; 
+    background-position: 50% 0px;
+    height: 417px;
+    top: 18% !important;
+    left: 0;
+    background-repeat: no-repeat; 
+	    
+  }
+  
+    .img-article-violet {
+	  
+	  position: absolute;
+    width: 100%;
+    background: url(../_img/animes/violet-evergarden/violet.jpg);
+     background-attachment: fixed; 
+    background-position: 50% 0px;
+    height: 417px;
+    top: 18% !important;
+    left: 0;
+    background-repeat: no-repeat; 
+	    
+  }
+  
+  .img-article-the-shadow{
+	  
+	  position: absolute;
+    width: 100%;
+    background: url(../_img/games/the-shadow/theshadow.jpg);
+     background-attachment: fixed; 
+    background-position: 50% 0px;
+    height: 417px;
+    top: 18% !important;
+    left: 0;
+    background-repeat: no-repeat;   
+	  
+	  
+  }
+   .img-article-mega-man-30-anos{
+	    position: absolute;
+    width: 100%;
+    background: url(../_img/games/mega-man-30-anos/capa.jpg);
+     background-attachment: fixed; 
+    background-position: 50% 0px;
+    height: 417px;
+    top: 18% !important;
+    left: 0;
+    background-repeat: no-repeat;   
+	   
+	   
+	   
+   }
+   
+     .img-article-jogo-novo{
+	    position: absolute;
+    width: 100%;
+    background: url(../_img/games/jogo-novo/game-novo.jpg);
+     background-attachment: fixed; 
+    background-position: 50% 0px;
+    height: 417px;
+    top: 18% !important;
+    left: 0;
+    background-repeat: no-repeat;   
+	   
+	   
+	   
+   }
+

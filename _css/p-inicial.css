@@ -1,0 +1,271 @@
+@charset UTF-8;
+
+body{
+	
+   background: #191919 !important;
+    height: auto;
+	
+}
+
+.n-corpo{
+
+    background: linear-gradient(white,black);
+    width: 80% !important;
+    position: absolute;
+    left: 10%;
+    height: auto;
+	box-shadow: 2px 0px 3px 0px black;
+}
+
+.area-card{
+	margin-top: 13%;
+    width: 100%;
+    height: 180px;
+    position: relative;
+	left: 5%;
+}
+
+.area-card-2{
+	margin-top: 13%;
+    width: 100%;
+    height: 180px;
+    position: relative;
+	    left: 4%;
+}
+
+
+.novo-c-c{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/meganiver.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c-c-2{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/samus-aran.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+
+
+
+
+.novo-c-c-1{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/mega-zero.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c a{
+	font-family: anime;
+	
+}
+
+
+.texto-anime h4{
+	text-align: left;
+	color: black ;
+}
+
+.texto-anime a:hover h4{
+	
+	color: #E91E63;
+	transition: 0.6s;
+}
+
+
+
+
+.novo-c a:hover .capsula{
+	
+	background: #12131226;
+}
+
+
+.novo-c a:hover{
+	
+	text-decoration: none !important;
+	
+}
+
+
+.meu-card-4{
+	
+	width: 300px;
+	height: 180px;
+	background-image: url(../_img/page-2/_cabecalho/chrono.jpg);
+	border-radius: 6px;
+}
+
+
+
+.meu-card-5{
+	
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/kof-ex2.jpg);
+    border-radius: 6px;
+    margin-left: 325px;
+    margin-top: -180px;
+}
+
+
+.meu-card-6{
+	
+	    width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/stfniver.jpg);
+    border-radius: 6px;
+    margin-left: 651px;
+    margin-top: -180px;
+}
+
+
+
+
+
+.meu-card a,h4{
+	font-family: anime;
+	
+}
+
+.meu-card a{
+	
+	color: white;
+	text-align: center;
+	
+}
+
+.meu-card a:hover .capsula{
+	
+	background: #12131226;
+}
+
+.meu-card a:hover{
+	color: white !important;
+	text-decoration: none !important;
+	
+}
+
+.p-anime{
+	
+margin-top: -40%;	
+	
+}
+
+.p-anime-n{
+    margin-top: -43%;
+    margin-left: 102%;
+    width: 123%;
+	
+}
+
+
+
+.capsula{
+	    width: 100%;
+    height: 180px;
+    background: #121312a3;
+    z-index: 9;
+	border-radius: 6px;
+}
+
+.meu-card-1{
+	 margin-top: -17%;
+    margin-left: 31%;
+	
+}
+
+.meu-card-1{
+	
+	background-image: url(../_img/page-2/_cabecalho/animes/f-zero.jpg);
+	
+}
+
+
+.meu-card-2{
+	 margin-top: -17%;
+     margin-left: 62%;
+	
+}
+
+.meu-card-2{
+	
+	background-image: url(../_img/page-2/_cabecalho/animes/ynu.jpg);
+	
+}
+
+.corpo-anime{
+	    width: 100%;
+    height: auto;
+    background: white;
+	
+}
+
+.novs{
+	    width: 100%;
+    height: 47px;
+    background: linear-gradient(to right, #E91E63,#673AB7,#9C27B0,#E91E63);
+	
+}
+
+.novs h3{
+    text-align: center;
+    font-family: anime;
+    color: white;
+    position: relative;
+    top: 13%;
+	
+}
+
+
+
+.novo-c-5{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/animes/shingeki.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c-4{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/animes/dbzs.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.novo-c-6{
+	width: 300px;
+    height: 180px;
+    background-image: url(../_img/page-2/_cabecalho/one-punch-man/one-punch.jpg) !important; 
+    border-radius: 6px;
+    margin-left: 1%;
+    margin-top: 1%;
+	
+}
+
+.corpo-anime-2{
+	     width: 100%;
+    height: auto;
+    background: white;
+    margin-top: 13px;
+	
+}

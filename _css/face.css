@@ -1,0 +1,50 @@
+@charset UTF-8;
+
+	.coments-face {
+    display: none ;
+	
+	}
+
+.curtir{
+	
+	
+	
+}
+.compartilhar{
+
+    margin-left: 70%;	
+	
+}
+
+.curtir-spot{
+	display: block;
+    margin-top: -34%;
+    margin-left: -13%;
+	
+}
+
+@media screen and (min-width: 801px){
+	
+
+	
+	.coments-face{
+	    margin-left: 13%;
+    margin-top: -4%;
+    height: auto;
+    background: #f6f7f9;
+    width: 74%;
+    display: block !important;
+}
+
+ .mov-face{
+	 
+	    margin-left: 23%;
+    margin-top: -3%;
+    height: auto;
+    background: #f6f7f9;
+    width: 64%;
+	 
+	 
+ }
+	
+}
